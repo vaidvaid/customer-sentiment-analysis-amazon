@@ -1,6 +1,6 @@
 # A webapp that runs sentiment analysis on reviews of any amazon product, user gives the link of the product as an input
 
-## [Check out the web-app for yourself here](https://share.streamlit.io/akshaytati/customer-sentiment-analysis/main/webmain.py)
+## [Check out the web-app for yourself here]
 
 ## How to run the project
 
