@@ -215,7 +215,7 @@ st.dataframe(result_df)
 
 soups = html_code(url)
 img = soups.find('img', class_='a-dynamic-image')
-link = img['src']
+#link = img['src']
 name = img['alt']
 
 if len(rev_result)!=0:
